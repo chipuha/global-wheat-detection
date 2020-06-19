@@ -1,7 +1,8 @@
 # my ignores
 test/
 train/
-
+example-code/.ipynb_checkpoints/
+example-code/fasterrcnn_resnet50_fpn.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
